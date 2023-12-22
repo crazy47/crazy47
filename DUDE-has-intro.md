@@ -1,5 +1,5 @@
 
-Hi, I'm erjan AKA crazy47, I'm interested in Software Engineering(Blockchain Technology, Game Developement, Web and Application Developer, Software Developing, DevOps Engineering).
+Hi, I'm erjan AKA crazy47, I'm interested in Software Engineering(Blockchain Technology, Game Developement, Web and Application Developing(Software Developing), DevOps Engineering and much more...).
 
  I'm Currently Learning Computer Engineering. You may expect me as a learner.
 
