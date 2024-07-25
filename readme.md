@@ -10,9 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crazy47&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy47&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hi, I'm erjan AKA crazy47, I'm interested in Software Engineering(Blockchain Technology, Game Developement, Web and Application Developing(Software Developing), DevOps Engineering and much more...). I'm Currently Learning Computer Engineering. You may expect me as a learner. You can reach me out on my email --> jeyziemarcoz@gmail.com or erjanmarcos@gmail.com Im Studying at National University Fairview Campus
 
-
-
-
+This is my Only Git/Github account :)
 
