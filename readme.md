@@ -7,8 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-Hi, I'm erjan AKA crazy47, I'm interested in Software Engineering/Development, I'm currently taking BSIT-MI (Bachelor of science in Information Technology with specialization of Mobile and Internet technologies in University.
-Im Studying at National University Fairview Campus
+Hi, I'm erjan.
 
+currently taking BSIT-MI (Bachelor of science in Information Technology with specialization of Mobile and Internet technologies in University, at National University Fairview Campus.
 
-Email : jeyziemarcoz@gmail.com <---> erjanmarcos@gmail.com 
+i like Software Development
