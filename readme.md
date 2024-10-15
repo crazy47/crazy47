@@ -11,4 +11,4 @@ Hi, I'm erjan.
 
 currently taking BSIT-MI (Bachelor of science in Information Technology with specialization of Mobile and Internet technologies in University, at National University Fairview Campus.
 
-i like Software Development
+i like(suck) Software Development
