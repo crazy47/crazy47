@@ -1,4 +1,4 @@
-# Hi, i'm Erjan (Software Developer) a college student studying Information Technology
+# Hi, i'm Carl a college student studying Information Technology
 **`Student/Learner/Software-Developer`**
 
 
