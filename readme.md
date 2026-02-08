@@ -1,4 +1,4 @@
-# Hi, i'm Carl a college student studying Information Technology
+# Hi, i'm Carl a college student studying Information Technology, Welcome to my repository ☺️
 **`Student/Learner/Software-Developer`**
 
 
